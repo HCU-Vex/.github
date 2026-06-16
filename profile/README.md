@@ -24,7 +24,6 @@ This GitHub is our open-source hub. If you're a VEX team looking for solid, matc
 | [`vpm`](https://github.com/HCU-Vex/vpm) | The VEX Package Manager — install and manage VEX V5 C++ packages | ✅ Completed |
 | [`depot`](https://github.com/HCU-Vex/depot) | The official package depot — browse and publish VEX packages | ✅ Completed |
 | [`vpm-template`](https://github.com/HCU-Vex/vpm-template) | Template for creating vpm-compatible packages | ✅ Completed |
-| [`hcuLib`](https://github.com/HCU-Vex/hcuLib) | PROS autonomous motion library — odometry, motion, logging, and more | 🚧 In Development |
 
 > Have an idea or want to contribute? Open an issue or submit a PR.
 
